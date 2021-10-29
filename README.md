@@ -1,5 +1,4 @@
 # alnitak
-Alnitak - also called Zeta Orionis and 50 Orionis, is a triple star system in the constellation of Orion 
+project contains a set of scripts used to scrape douban's book list
 
-## scrapy
-project contains a set of scripts used to scrape Ebay's products data using Scrapy Web Crawling Framework.
+
